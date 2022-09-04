@@ -1,5 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
+void get();
 void main()
 { 
   clrscr();
@@ -24,3 +25,11 @@ cout<<"enter any two number";
   getch();
 }
 
+<<<<<<< HEAD
+=======
+
+void get()
+{
+cout<<"program to input";
+}
+>>>>>>> newfolder
