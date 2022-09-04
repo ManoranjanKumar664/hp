@@ -1,5 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
+void get();
 void main()
 { 
   clrscr();
