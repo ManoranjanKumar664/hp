@@ -8,5 +8,7 @@ void main()
   cin>>a>>b;
   c=a+b;
   cout<<"sum="<<c;
+  cout<<"hello world"<<endl;
+  cout<<"this is first trial of merge conflicts";
   getch();
 }
