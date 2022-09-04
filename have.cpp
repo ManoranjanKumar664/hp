@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream.h>
 #include<conio.h>
 void main()
@@ -7,3 +8,6 @@ cout<<"nothing added";
   cout<<"hello world";
 getch();
 }
+=======
+cout<<"added something";
+>>>>>>> newfolder
