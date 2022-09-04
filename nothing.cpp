@@ -22,3 +22,9 @@ void main()
   }
   getch();
 }
+
+
+void get()
+{
+cout<<"program to input";
+}
