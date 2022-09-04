@@ -8,5 +8,16 @@ void main()
   cin>>a>>b;
   c=a+b;
   cout<<"sum="<<c;
+  
+  cout<<"enter any two number";
+  cin>>l>>m;
+  if(l>m)
+  {
+	  n=l%m;
+  }
+  else
+  {
+	  n=m%l;
+  }
   getch();
 }
