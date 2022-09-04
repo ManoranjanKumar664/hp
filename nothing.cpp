@@ -20,6 +20,5 @@ void main()
   {
 	  n=m%l;
   }
->>>>>>> newpro
   getch();
 }
