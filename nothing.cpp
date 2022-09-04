@@ -3,6 +3,7 @@
 void main()
 { 
   clrscr();
+cout<<"enter any two number";
   int a, b, c;
   cout<<"enter any no.";
   cin>>a>>b;
@@ -22,3 +23,4 @@ void main()
   }
   getch();
 }
+
