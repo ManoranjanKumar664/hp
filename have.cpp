@@ -3,6 +3,7 @@
 void main()
 {
   clrscr();
+cout<<"nothing added";
   cout<<"hello world";
 getch();
 }
