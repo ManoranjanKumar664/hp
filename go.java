@@ -1,3 +1,6 @@
 public static void main()
 {
-class
+class mano
+{
+Scanner some=new Scanner(System.in);
+some.a=5;
