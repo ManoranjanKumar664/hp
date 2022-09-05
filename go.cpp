@@ -6,7 +6,6 @@ clrscr();
 cout<<"hello world";
 getch();
 <<<<<<< HEAD
-=======
 }
 
 void mano()
@@ -19,14 +18,3 @@ void ranjan()
 cout<<"baskey";
 }
 
-<<<<<<< HEAD
-void manoranjan()
-{
-cout<<"something special";
->>>>>>> profile
-=======
-void baskey()
-{
-cout<<"nothing special";
->>>>>>> gamefile
-}
