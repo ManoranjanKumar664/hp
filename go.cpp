@@ -16,3 +16,8 @@ void ranjan()
 {
 cout<<"baskey";
 }
+
+void baskey()
+{
+cout<<"nothing special";
+}
