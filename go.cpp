@@ -17,6 +17,14 @@ c=a+b;
 cout<<"sum="<<c;
 }
 
+void subtract()
+{
+ int a, b, c;
+cin>>a>>b;
+c=a+b;
+cout<<"differene="<<c;
+}
+
 void mano()
 {
 cout<<"manoranjan";
