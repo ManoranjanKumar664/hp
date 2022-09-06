@@ -9,6 +9,12 @@ getch();
 sum();
 }
 
+void sum()
+{
+
+ }
+
+
 void subtract()
 {
  int a, b, c;
@@ -21,6 +27,7 @@ void mano()
 {
 cout<<"manoranjan";
 }
+
 
 
 
