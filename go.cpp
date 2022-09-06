@@ -16,10 +16,19 @@ getch();
 sum();
 }
 
+
 void add()
 {
 cout<<"sum";
 }
+
+
+void gogo()
+{
+cout<<"adding";
+}
+
+
 
 void remainder()
 {
