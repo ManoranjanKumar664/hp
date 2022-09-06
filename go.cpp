@@ -7,12 +7,18 @@ void subtract();
 void mano();
 void ranjan();
 void sum();
+void get();
 void main()
 {
 clrscr();
 cout<<"hello world";
 getch();
 sum();
+}
+
+void get()
+{
+cout<<"adding";
 }
 
 void gogo()
