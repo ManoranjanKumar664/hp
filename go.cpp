@@ -7,7 +7,11 @@ void subtract();
 void mano();
 void ranjan();
 void sum();
+
 void add();
+
+void get();
+
 void main()
 {
 clrscr();
@@ -17,11 +21,17 @@ sum();
 }
 
 
+
 void add()
 {
 cout<<"sum";
 }
 
+
+void get()
+{
+cout<<"adding";
+}
 
 void gogo()
 {
