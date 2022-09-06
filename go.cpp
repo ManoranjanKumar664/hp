@@ -7,12 +7,18 @@ void subtract();
 void mano();
 void ranjan();
 void sum();
+void add();
 void main()
 {
 clrscr();
 cout<<"hello world";
 getch();
 sum();
+}
+
+void add()
+{
+cout<<"sum";
 }
 
 void remainder()
