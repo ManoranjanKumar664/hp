@@ -32,7 +32,3 @@ void nothing()
 cout<<no hello world";
 }
 
-void something()
-{
-cout<<"do something for me";
-}
