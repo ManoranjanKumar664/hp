@@ -28,11 +28,6 @@ void mano()
 cout<<"manoranjan";
 }
 
-void ranjan()
-{
- cout<<"anythng else";
-}
-
 
 
 
