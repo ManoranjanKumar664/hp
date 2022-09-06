@@ -9,10 +9,12 @@ getch();
 sum();
 }
 
-
-void dogood()
+void remainder()
 {
- cout<<"do good you will get the good";
+ int a, b, c;
+cin>>a>>b;
+c=a+b;
+cout<<c;
 }
 
  void product()
