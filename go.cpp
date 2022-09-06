@@ -9,6 +9,11 @@ getch();
 sum();
 }
 
+void don'tgothere()
+{
+ cout<<"ranjan";
+}
+
 void gothere()
 {
 cout<<"manoranjan";
