@@ -1,5 +1,11 @@
 #include<iostream.h>
 #include<conio.h>
+void remainder();
+void product();
+void sum();
+void subtract();
+void mano();
+void ranjan();
 void sum();
 void main()
 {
