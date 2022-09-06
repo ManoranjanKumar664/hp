@@ -1,10 +1,20 @@
 #include<iostream.h>
 #include<conio.h>
+void sum();
 void main()
 {
 clrscr();
 cout<<"hello world";
 getch();
+sum();
+}
+
+void sum()
+{
+int a, b, c;
+cin>>a>>b;
+c=a+b;
+cout<<"sum="<<c;
 }
 
 void mano()
