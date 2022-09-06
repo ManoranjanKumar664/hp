@@ -10,6 +10,7 @@ void sum();
 void add();
 void get();
 void chandan();
+void rahul();
 void main()
 {
 clrscr();
