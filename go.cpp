@@ -15,20 +15,14 @@ cout<<"manoranjan";
 void ranjan()
 {
 cout<<"baskey";
-<<<<<<< HEAD
 } 
-=======
-}
 
-<<<<<<< HEAD
-=======
->>>>>>> gamefile
 void nothing()
 {
 cout<<no hello world";
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> profile
->>>>>>> gamefile
+void something()
+{
+cout<<"do something for me";
+}
