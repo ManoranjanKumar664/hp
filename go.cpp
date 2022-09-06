@@ -9,6 +9,12 @@ getch();
 sum();
 }
 
+
+void dogood()
+{
+ cout<<"do good you will get the good";
+}
+
  void product()
 {
  int a, b, c;
