@@ -35,8 +35,4 @@ void ranjan()
 cout<<"baskey";
 } 
 
-void nothing()
-{
-cout<<no hello world";
-}
 
