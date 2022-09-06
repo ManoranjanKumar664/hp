@@ -10,12 +10,18 @@ void sum();
 void add();
 void get();
 void rahul();
-void main()
+void chandan();
+void main();
 {
 clrscr();
 cout<<"hello world";
 getch();
 sum();
+}
+
+void chandan()
+{
+cout<<"he is a very ideal student";
 }
 
 void rahul()
