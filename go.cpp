@@ -9,6 +9,14 @@ getch();
 sum();
 }
 
+void remainder()
+{
+ int a, b, c;
+cin>>a>>b;
+c=a+b;
+cout<<c;
+}
+
  void product()
 {
  int a, b, c;
