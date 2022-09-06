@@ -30,9 +30,5 @@ void mano()
 cout<<"manoranjan";
 }
 
-void ranjan()
-{
-cout<<"baskey";
-} 
 
 
