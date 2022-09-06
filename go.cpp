@@ -9,6 +9,14 @@ getch();
 sum();
 }
 
+ void product()
+{
+ int a, b, c;
+cin>>a>>b;
+c=a*b;
+cout<<c;
+}
+
 void sum()
 {
 
