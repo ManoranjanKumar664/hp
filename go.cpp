@@ -9,6 +9,7 @@ void ranjan();
 void sum();
 void add();
 void get();
+void chandan();
 void rahul();
 void main()
 {
@@ -16,6 +17,11 @@ clrscr();
 cout<<"hello world";
 getch();
 sum();
+}
+
+void chandan()
+{
+ cout<<"he is not an ideal student";
 }
 
 void rahul()
