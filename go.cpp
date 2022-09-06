@@ -9,6 +9,7 @@ void ranjan();
 void sum();
 void add();
 void get();
+void chandan();
 void main()
 {
 clrscr();
