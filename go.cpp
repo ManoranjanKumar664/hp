@@ -7,6 +7,14 @@ cout<<"hello world";
 getch();
 }
 
+void subtract()
+{
+ int a, b, c;
+cin>>a>>b;
+c=a+b;
+cout<<"differene="<<c;
+}
+
 void mano()
 {
 cout<<"manoranjan";
