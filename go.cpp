@@ -9,12 +9,9 @@ getch();
 sum();
 }
 
-void sum()
+void gothere()
 {
-int a, b, c;
-cin>>a>>b;
-c=a+b;
-cout<<"sum="<<c;
+cout<<"manoranjan";
 }
 
 void subtract()
