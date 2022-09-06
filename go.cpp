@@ -15,6 +15,12 @@ getch();
 sum();
 }
 
+void gogo()
+{
+cout<<"adding";
+}
+
+
 void remainder()
 {
  int a, b, c;
